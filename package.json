@@ -1,0 +1,46 @@
+{
+  "name": "testing-best-practices",
+  "version": "1.0.0",
+  "description": "A series of different cases and how to write unit-tests for them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "gulp": "^3.9.0",
+    "gulp-istanbul": "^0.10.1",
+    "gulp-jscs": "^3.0.0",
+    "gulp-jscs-stylish": "^1.2.1",
+    "gulp-jshint": "^1.11.2",
+    "gulp-mocha": "^2.1.3",
+    "gulp-plumber": "^1.0.1",
+    "jshint-stylish": "^2.0.1",
+    "proxyquire": "^1.7.2",
+    "q": "^1.4.1",
+    "sinon": "^1.17.1",
+    "sinon-chai": "^2.8.0",
+    "sinon-promise": "^0.1.3"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "chai": "^3.0.0",
+    "gulp": "^3.9.0",
+    "gulp-istanbul": "^0.10.1",
+    "gulp-jscs-stylish": "^1.2.1",
+    "gulp-mocha": "^2.1.3",
+    "gulp-jscs": "^3.0.0",
+    "jshint-stylish": "^2.0.1",
+    "gulp-plumber": "^1.0.1",
+    "sinon-chai": "^2.8.0",
+    "q": "^1.4.1",
+    "proxyquire": "^1.7.2",
+    "sinon": "^1.17.1",
+    "sinon-promise": "^0.1.3",
+    "gulp-jshint": "^1.11.2"
+  }
+}
